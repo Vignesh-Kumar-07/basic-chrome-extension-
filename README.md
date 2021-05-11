@@ -1,1 +1,1 @@
-# basic-chrome-extension
+# Basic-chrome-extension
